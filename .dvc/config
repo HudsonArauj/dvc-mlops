@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/hudso/Desktop/Faculdade/Faculdade/8_semestre/MLOps/data_versioning/dvcstore
